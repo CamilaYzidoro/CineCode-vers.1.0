@@ -1,13 +1,13 @@
-<div>
-  <center>
+<p align="center">
   <img height="100em" src="https://github.com/CamilaYzidoro/CineCode-vers.1.0/blob/master/Cinecode/images/CineCode.png">
-  </center>
-</div>
+</p>
 
-<center> For study purposes, CineCode was created, a ticket sales screen. </center>
+<p align="Center">
+  For study purposes, CineCode was created, a ticket sales screen.
+</p>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=plastic"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=plastic"/>
 </p>
 
 ##
