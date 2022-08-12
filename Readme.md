@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="100em" src="https://github.com/CamilaYzidoro/CineCode-vers.1.0/blob/master/Cinecode/images/CineCode.png">
+  <img height="100em" src="https://github.com/CamilaYzidoro/CineCode-vers.1.0/blob/master/Cinecode/images/LogoCineCode.png">
 </p>
 
 <p align="Center">
